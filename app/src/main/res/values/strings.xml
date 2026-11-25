@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="arrow_drop_down">Arrow Drop Down</string>
+    <string name="currency_converter">Conversor de Moedas</string>
+    <string name="arrow_downward_alt">Arrow downward alt</string>
+    <string name="currency_converter_button_text">Converter moeda</string>
+    <string name="conversion_success">Conversão realizada com sucesso</string>
+</resources>
